@@ -6,6 +6,10 @@
 - Firebase
 - Loading animation widget
 
+# UI
+
 ![preview](./preview.png)
+
+## App
+
 ![preview2](./preview2.png)
-![preview3](./preview3.png)
